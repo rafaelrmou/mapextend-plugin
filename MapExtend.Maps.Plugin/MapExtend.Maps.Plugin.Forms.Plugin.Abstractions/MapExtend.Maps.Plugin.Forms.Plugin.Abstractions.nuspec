@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.rm.eti.br</licenseUrl>
+    <projectUrl>http://www.rm.eti.br</projectUrl>
+    <iconUrl>http://www.rm.eti.br</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Pacote em Release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Xamarin Maps XamarinForms Xamarin.Forms	</tags>
+  </metadata>
+</package>
