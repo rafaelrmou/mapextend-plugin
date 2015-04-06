@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Rafael</authors>
+    <owners>Rafael</owners>
+    <licenseUrl>http://www.rm.eti.br</licenseUrl>
+    <projectUrl>http://www.rm.eti.br</projectUrl>
+    <iconUrl>http://www.rm.eti.br</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacote para o projeto WinPhone de um PCL XamarinForms</description>
+    <releaseNotes>Pacote em Release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Xamarin Maps XamarinForms Xamarin.Forms Xamarin.WinPhone WinPhone MonoDroid</tags>
+  </metadata>
+</package>

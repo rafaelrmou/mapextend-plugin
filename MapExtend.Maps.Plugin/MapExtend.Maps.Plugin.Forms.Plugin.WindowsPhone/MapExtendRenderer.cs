@@ -8,7 +8,7 @@ using Microsoft.Phone.Maps.Toolkit;
 using Microsoft.Phone.Maps.Controls;
 using System.Device.Location;
 
-
+[assembly: ExportRenderer(typeof(Xamarin.Forms.MapExtend.Abstractions.MapExtend), typeof(Xamarin.Forms.MapExtend.WinPhone.MapExtendRenderer))]
 namespace Xamarin.Forms.MapExtend.WinPhone
 {
     /// <summary>
